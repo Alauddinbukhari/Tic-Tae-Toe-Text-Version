@@ -1,0 +1,26 @@
+text based tic tac toe
+
+make a tic tac toe game which is text based, the game start  with user asking between "X" or "0"
+players giveing postion where there should be marks , if a player makes a three diagonal or a line with same type then he is the winner , else if no then game is draw
+
+
+
+#let players choose their weapon
+
+#find a way to represent the diagram , so that players can choose respected positions 
+
+
+#after choosing find a way to check if it has same type in a diagonal or straight line
+	 find a way to check if u can compare elements in a 3*3 type is same or not 
+	 
+	 draw a diagram after each entry in list 
+		find a way to draw a diagram , after a element is inserted in the list.
+	 
+
+
+#check it, who it is belong to player.py 1 or player.py 2
+
+
+#and there are winners
+
+
