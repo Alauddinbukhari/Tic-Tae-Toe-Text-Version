@@ -41,7 +41,7 @@ Feel free to contribute by reporting issues, suggesting improvements, or adding 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
